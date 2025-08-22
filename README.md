@@ -12,8 +12,8 @@ Equipe:
 - [Henrique Chepli de Souza](https://github.com/HenriqueChepli)
 
 Links do projeto:
--   Backend: [Repositório](https://github.com/HenriqueChepli/BackEnd-LaCasaDiFrango) e [Publicação](https://pi-backend.herokuapp.com/)
--   Frontend: [Repositório](https://github.com/HenriqueChepli/FrontEnd-LaCasaDiFrango) e [Publicação](https://pi-frontend.herokuapp.com/)
+-   Backend: [Repositório](https://github.com/LaCasaDiFrango/BackEnd-LaCasaDiFrango) e [Publicação](https://backend-lacasadifrango.onrender.com/api/)
+-   Frontend: [Repositório](https://github.com/LaCasaDiFrango/FrontEnd-LaCasaDiFrango) e [Publicação](https://frontend-lacasadifrango.vercel.app/)
 
 # 2. Situação Problema
 
