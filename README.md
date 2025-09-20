@@ -13,7 +13,7 @@ Equipe:
 
 Links do projeto:
 -   Backend: [Repositório](https://github.com/LaCasaDiFrango/BackEnd-LaCasaDiFrango) e [Publicação](https://backend-lacasadifrango.onrender.com/api/)
--   Frontend: [Repositório](https://github.com/LaCasaDiFrango/FrontEnd-LaCasaDiFrango) e [Publicação](https://frontend-lacasadifrango.vercel.app/)
+-   Frontend: [Repositório](https://github.com/LaCasaDiFrango/FrontEnd-LaCasaDiFrango) e [Publicação](https://lacasadifrango.vercel.app/)
 
 # 2. Situação Problema
 
