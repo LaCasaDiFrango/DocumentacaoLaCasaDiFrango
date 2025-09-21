@@ -27,7 +27,7 @@ Links do projeto:
 
 ### 2. Acessando como usuário
 1. Abra o [frontend do sistema](https://lacasadifrango.vercel.app/).  
-2. Clique em **"Entrar"**.  
+2. Clique em **"Fazer Login"**.  
 3. Insira seu login e senha cadastrados.  
 4. **Se ainda não tiver uma conta, será necessário se cadastrar.**  
 5. Após o login, você poderá **fazer pedidos e utilizar todas as funcionalidades do site**, mas **não terá acesso administrativo** (como cadastro de produtos, estoque ou relatórios).  
