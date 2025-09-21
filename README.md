@@ -15,6 +15,23 @@ Links do projeto:
 -   Backend: [Repositório](https://github.com/LaCasaDiFrango/BackEnd-LaCasaDiFrango) e [Publicação](https://backend-lacasadifrango.onrender.com/api/)
 -   Frontend: [Repositório](https://github.com/LaCasaDiFrango/FrontEnd-LaCasaDiFrango) e [Publicação](https://lacasadifrango.vercel.app/)
 
+---
+
+## Tutorial de uso
+
+### 1. Acessando como convidado
+1. Abra o [frontend do sistema](https://lacasadifrango.vercel.app/).  
+2. Clique em **"Entrar como convidado"**.  
+3. Você poderá **apenas visualizar os produtos** do catálogo.  
+4. **Não é possível realizar pedidos ou acessar funcionalidades do site.**  
+
+### 2. Acessando como usuário
+1. Abra o [frontend do sistema](https://lacasadifrango.vercel.app/).  
+2. Clique em **"Entrar"**.  
+3. Insira seu login e senha cadastrados.  
+4. **Se ainda não tiver uma conta, será necessário se cadastrar.**  
+5. Após o login, você poderá **fazer pedidos e utilizar todas as funcionalidades do site**, mas **não terá acesso administrativo** (como cadastro de produtos, estoque ou relatórios).  
+
 # 2. Situação Problema
 
 *A empresa La Casa Di Frango está no ramo alimentício da cidade de Joinville a mais de 30 anos. Gerenciada por Claudinei Bisewski, é uma micro-empresa familiar. 
